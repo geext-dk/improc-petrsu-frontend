@@ -20,6 +20,11 @@ export default {
     ]
   },
 
+  // where to place generated files
+  generate: {
+    dir: 'public'
+  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
