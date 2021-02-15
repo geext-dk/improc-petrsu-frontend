@@ -1,0 +1,21 @@
+{
+  "convertToBinaryHeader": "Конвертирование в двоичное изображение",
+  "convertToBinaryDescription": "Этот алгоритм конвертирует предоставленное изображение в двоичное, то есть изображение, состоящее только из двух цветов, черного и белого, основываясь на значении порога. Если хотя бы один компонент RGB превосходит заданный порог, то пиксель в итоговом изображении будет белым, иначе черным.",
+  "skeletonizeHeader": "Скелетизация изображения",
+  "skeletonizeDescription": "Этот алгоритм пытается построить \"скелет\" двоичного изображения. Алгоритм будет работать только с двоичными изображениями. Можно выбрать один из трех алгоритмов.",
+  "previewImageDescriptionText": "Здесь будет показан результат, как только вы загрузите изображение. Ну а пока - держите котика.",
+  "uploadImageButtonText": "Загрузить изображение",
+  "downloadImageButtonText": "Скачать результат",
+  "processingText": "Обработка...",
+  "chooseAlgorithmLabelText": "Выберите алгоритм",
+  "sliderHeaderText": "Порог белого",
+  "sliderWhiteText": "Белый",
+  "sliderBlackText": "Черный",
+  "eberlyAlgorithmName": "Эберли",
+  "zhangSuenAlgorithmName": "Джан-Сун",
+  "rosenfeldAlgorithmName": "Розенфельда",
+  "developerCreditText": "Разработка",
+  "designCreditText": "Дизайн",
+  "lyudmilaName": "Федорова Людмила",
+  "denisName": "Карповский Денис"
+}

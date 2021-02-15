@@ -1,0 +1,61 @@
+<svg width="0" height="0" class="hidden">
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 115" id="icon-number-one">
+    <path d="M53.945 111.375h3V3h-5.684l-.476.165-44.93 15.539-2.02.698v24.139l3.842-1.122L27.18 36.72v74.654h26.765z" fill="#FAD02C" stroke="#FAD02C" stroke-width="6"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87 116" id="icon-number-three">
+    <path d="M80.273 112.852h3V88.57h-36.72L55.4 78.358c7.02-7.024 12.2-12.718 15.457-17.046 3.305-4.373 5.802-8.616 7.425-12.725l.005-.012c1.632-4.183 2.455-8.49 2.455-12.903 0-10.234-3.242-18.488-10.05-24.288C64.009 5.65 54.705 3 43.219 3c-7.342 0-14.072 1.603-20.124 4.858-6.05 3.253-10.816 7.807-14.241 13.633-3.419 5.768-5.127 12.086-5.127 18.892v3h29.765v-3c0-4.092.995-7.25 2.789-9.679l.006-.009.006-.009c1.726-2.372 3.78-3.405 6.363-3.405 2.983 0 4.84.904 6.067 2.37 1.3 1.554 2.183 4.106 2.183 8.13 0 2.009-.763 4.686-2.666 8.13-1.881 3.402-4.761 7.35-8.713 11.854L6.662 92.315l-.826.869v19.668h74.437z" fill="#FAD02C" stroke="#FAD02C" stroke-width="6"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87 118" id="icon-number-two">
+    <path d="M30.914 46.102h-3V69.75h14.531c4.092 0 6.889.968 8.763 2.536 1.6 1.337 2.792 3.921 2.792 8.667 0 2.83-.935 4.997-2.774 6.737-1.807 1.666-4.343 2.638-7.937 2.638-3.025 0-5.404-.915-7.336-2.667-1.966-1.784-2.812-3.72-2.812-5.934v-3H3.305v3c0 6.307 1.624 12.038 4.913 17.102l.004.006.004.006c3.315 5.052 8.132 8.933 14.283 11.706l.014.006.013.006c6.17 2.709 12.818 4.05 19.91 4.05 11.914 0 21.856-2.861 29.547-8.861 7.782-6.069 11.702-14.265 11.702-24.303 0-6.45-1.7-12.073-5.265-16.669-2.322-3.023-5.21-5.5-8.62-7.45 3.1-2.112 5.67-4.608 7.66-7.507 3.033-4.393 4.608-9.15 4.608-14.217 0-9.912-3.602-17.961-10.901-23.79-7.213-5.76-16.908-8.46-28.732-8.46-6.757 0-13.036 1.268-18.797 3.844-5.728 2.536-10.323 6.14-13.671 10.847C6.6 22.79 4.922 28.209 4.922 34.195v3h29.695v-3c0-1.72.663-3.155 2.302-4.464 1.783-1.386 3.863-2.098 6.37-2.098 3.27 0 5.385.9 6.785 2.332l.012.012.011.011c1.471 1.471 2.286 3.413 2.286 6.106 0 3.857-.981 6.202-2.421 7.612-1.452 1.42-3.885 2.396-7.868 2.396h-11.18z" fill="#FAD02C" stroke="#FAD02C" stroke-width="6"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" id="icon-scroll-button-active">
+    <circle cx="28" cy="28" r="28" fill="#2E8AFA"></circle>
+    <path d="M40 25L28 37 16 25" stroke="#E9EAEC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" id="icon-scroll-button-hover">
+    <circle cx="28" cy="28" r="28" fill="#6AABFB"></circle>
+    <path d="M40 25L28 37 16 25" stroke="#E9EAEC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" id="icon-scroll-button-normal">
+    <path d="M40 25L28 37 16 25" stroke="#FAD02C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 20" id="icon-simple-arrow">
+    <path d="M28 4L16 16 4 4" stroke="#FAD02C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 19" id="icon-small-arrow">
+    <path d="M10 17l8-8.148M10 17L2 8.852M10 17V2" stroke="#898FAA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" id="icon-warning">
+    <path d="M10 0c5.523 0 10 4.478 10 10s-4.477 10-10 10S0 15.522 0 10 4.477 0 10 0zm.002 13.004a1.001 1.001 0 00-1.03.998.999.999 0 101.03-.998zM10 5a1 1 0 00-.993.884L9 6l.002 5.001.007.117a1 1 0 001.986 0l.007-.117L11 6l-.007-.117A1 1 0 0010 5z" fill="#FF4A4A"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51 77" id="icon-arrow-curved">
+    <path d="M45.827 9.653l-14.955-4.33m14.955 4.33l-4.61 14.977m4.61-14.977l-18.01 9.8" stroke="#FAD02C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+    <ellipse rx=".873" ry=".876" transform="matrix(.86409 -.50335 .49759 .86741 45.609 75.8)" fill="#FAD02C"></ellipse>
+    <ellipse rx=".873" ry=".876" transform="matrix(.86408 -.50335 .49758 .86742 34.286 74.923)" fill="#FAD02C"></ellipse>
+    <ellipse rx="1.745" ry="1.752" transform="matrix(.86408 -.50335 .49758 .86742 23.283 71.734)" fill="#FAD02C"></ellipse>
+    <ellipse rx="1.745" ry="1.752" transform="matrix(.86408 -.50335 .49758 .86742 13.702 67.346)" fill="#FAD02C"></ellipse>
+    <ellipse rx="2.618" ry="2.628" transform="matrix(.86408 -.50335 .49758 .86742 3.57 47.48)" fill="#FAD02C"></ellipse>
+    <ellipse rx="2.618" ry="2.628" transform="matrix(.86408 -.50335 .49758 .86742 6.183 59.768)" fill="#FAD02C"></ellipse>
+    <ellipse rx="3.491" ry="3.504" transform="matrix(.86408 -.50335 .49759 .86742 16.953 26.738)" fill="#FAD02C"></ellipse>
+    <ellipse rx="3.491" ry="3.504" transform="matrix(.86408 -.50335 .49759 .86742 8.243 35.515)" fill="#FAD02C"></ellipse>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 34" id="icon-arrow-straight">
+    <path d="M67.5 17L54.735 4.5M67.5 17L54.735 29.5M67.5 17H44" stroke="#FAD02C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="1" cy="17" r="1" fill="#FAD02C"></circle>
+    <circle cx="9" cy="17" r="2" fill="#FAD02C"></circle>
+    <circle cx="19" cy="17" r="3" fill="#FAD02C"></circle>
+    <circle cx="31" cy="17" r="4" fill="#FAD02C"></circle>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="icon-button-up-active">
+    <circle cx="32" cy="32" r="28" fill="#2E8AFA"></circle>
+    <path d="M31.933 20.5l-12 12.222m12-12.222l12 12.222m-12-12.222V43" stroke="#E9EAEC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="icon-button-up-hover">
+    <circle cx="32" cy="32" r="28" fill="#6AABFB"></circle>
+    <path d="M31.933 20.5l-12 12.222m12-12.222l12 12.222m-12-12.222V43" stroke="#E9EAEC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="icon-button-up-normal">
+    <circle cx="32" cy="32" r="25.5" stroke="#FAD02C" stroke-width="5"></circle>
+    <path d="M32 22L22 32.32M32 22l10 10.32M32 22v19" stroke="#FAD02C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+</svg>

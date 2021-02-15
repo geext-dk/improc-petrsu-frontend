@@ -1,0 +1,21 @@
+{
+  "convertToBinaryHeader": "Convert an image to binary",
+  "convertToBinaryDescription": "This algorithm converts provided image to binary so the image will consist only of two colors: black and white. The result will be based on the threshold value. If at least one of the pixel components exceeds the threshold, the pixel will be white, else it will be black.",
+  "skeletonizeHeader": "Skeletonize an image",
+  "skeletonizeDescription": "This algorithm tries to build a \"skeleton\" of a binary image. Algorithm can build skeletons of binary images only. One of three algorithms can be chosen.",
+  "previewImageDescriptionText": "Here you will see the result. Until then - here is a cat.",
+  "uploadImageButtonText": "Upload an image",
+  "downloadImageButtonText": "Download the result",
+  "processingText": "Processing...",
+  "chooseAlgorithmLabelText": "Choose an algorithm",
+  "sliderHeaderText": "White threshold",
+  "sliderWhiteText": "White",
+  "sliderBlackText": "Black",
+  "eberlyAlgorithmName": "Eberly",
+  "zhangSuenAlgorithmName": "Zhang-Suen",
+  "rosenfeldAlgorithmName": "Rosenfeld",
+  "developerCreditText": "Development",
+  "designCreditText": "Design",
+  "lyudmilaName": "Lyudmila Fedorova",
+  "denisName": "Denis Karpovskiy"
+}
