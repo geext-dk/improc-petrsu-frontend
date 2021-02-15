@@ -1,5 +1,9 @@
 import en from "./locales/en.json";
 import ru from "./locales/ru.json";
+
+const { CI_PAGES_URL } = process.env
+const base = CI_PAGES_URL && new URL(CI_PAGES_URL).pathname
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -23,6 +27,10 @@ export default {
   // where to place generated files
   generate: {
     dir: 'public'
+  },
+
+  router: {
+    base
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
