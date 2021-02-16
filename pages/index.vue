@@ -6,9 +6,11 @@
         id="first-page"
         class="first-algorithm"
         next-page-element-id="second-page"
-        :preview-image-url="getImagePath('ginger-cat.jpg')"
-        :example-image-original="getImagePath('ginger-cat.jpg')"
-        :example-image-processed="getImagePath('ginger-cat-binary.png')"
+        :preview-image-url="require('~/assets/images/ginger-cat.jpg')"
+        :example-image-original="require('~/assets/images/ginger-cat.jpg')"
+        :example-image-processed="
+          require('~/assets/images/ginger-cat-binary.png')
+        "
         :header-text="$t('convertToBinaryHeader')"
         :description-text="$t('convertToBinaryDescription')"
         api-path="/api/images/convertToBinary"
@@ -20,12 +22,12 @@
       <algorithm-preview
         id="second-page"
         class="second-algorithm"
-        :preview-image-url="getImagePath('overcooked-bread-cat.jpg')"
+        :preview-image-url="require('~/assets/images/overcooked-bread-cat.jpg')"
         :example-image-original="
-          getImagePath('overcooked-bread-cat-binary.png')
+          require('~/assets/images/overcooked-bread-cat-binary.png')
         "
         :example-image-processed="
-          getImagePath('overcooked-bread-cat-skeleton.png')
+          require('~/assets/images/overcooked-bread-cat-skeleton.png')
         "
         :header-text="$t('skeletonizeHeader')"
         :description-text="$t('skeletonizeDescription')"
@@ -57,11 +59,7 @@ import Component from "vue-class-component";
     SiteFooter,
   },
 })
-export default class Index extends Vue {
-  getImagePath(imageName: String) {
-    return `/images/${imageName}`;
-  }
-}
+export default class Index extends Vue {}
 </script>
 
 <style>

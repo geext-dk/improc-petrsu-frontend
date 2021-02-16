@@ -18,7 +18,8 @@ export default class CustomIcon extends Vue {
   @Prop({ type: String, required: true }) readonly name!: string;
 
   get iconLink() {
-    return `/sprite.svg#icon-${this.name}`;
+    let spriteUrl = require("~/assets/sprite.svg");
+    return spriteUrl + `#icon-${this.name}`;
   }
 }
 </script>

@@ -29,17 +29,17 @@ export default class DefaultLayout extends Vue {}
 
 @font-face {
   font-family: "Montserrat-Black";
-  src: url(/fonts/Montserrat-Black.ttf);
+  src: url(~assets/fonts/Montserrat-Black.ttf);
 }
 
 @font-face {
   font-family: "SourceSansPro-Regular";
-  src: url(/fonts/SourceSansPro-Regular.ttf);
+  src: url(~assets/fonts/SourceSansPro-Regular.ttf);
 }
 
 @font-face {
   font-family: "Montserrat-Bold";
-  src: url(/fonts/Montserrat-Bold.ttf);
+  src: url(~assets/fonts/Montserrat-Bold.ttf);
 }
 
 *,
